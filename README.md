@@ -1,4 +1,4 @@
-# Integrating reproducibility into the undergraduate statistics curriculum
+# Weaving reproducibility through the undergraduate statistics curriculum
 
 This repository contains slides for and any additional resources related to the "Integrating reproducibility into the undergraduate statistics curriculum" talk as part of the ASA Webinar titled [Teaching Reproducible Research: Inspiring New Researchers to do More Robust and Reliable Science](http://www.amstat.org/ASA/Education/Web-Based-Lectures.aspx#TRR) on Wednesday, November 16, 2016, 2:30 p.m. - 3:30 p.m.
 
